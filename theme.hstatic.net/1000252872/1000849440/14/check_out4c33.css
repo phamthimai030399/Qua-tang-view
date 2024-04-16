@@ -1,0 +1,15 @@
+a.print_price{
+    position: absolute;
+    left: 180px;
+    padding: 15px;
+    color: white;
+    border-radius: 5px;
+    width: 105px;
+    top: 100px;
+}
+@media only screen and (max-width: 1000px){
+.main-content {
+    position: relative;
+    top: 70px;
+ }
+}
